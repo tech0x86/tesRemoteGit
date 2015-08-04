@@ -1,0 +1,2 @@
+# tesRemoteGit
+local2RemoteTes
